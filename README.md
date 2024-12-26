@@ -1,2 +1,2 @@
 # MaxGames
-founding the max numbers
+finding the max numbers
